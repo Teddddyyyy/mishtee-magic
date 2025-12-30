@@ -1,0 +1,4 @@
+Group,Output
+Slogans,"• Indulgence, rooted in purity.• Earth’s finest, spun into gold.• The magic of mindful sweetness."
+'Our Story' Blurb(For Login Page),"We blend the warmth of earthy traditions with the purity of A2 milk and organic ingredients. Welcome to the magic of guilt-free, golden indulgence."
+Collection Names,• The A2 Aura: (Milk-based sweets highlighting sweet purity)• Terra Treats: (Nut and dry-fruit based artisanal bites)• The Golden Spice Edit: (Premium saffron and cardamom infused specialties)• Mindful Magic: (The dedicated low-sugar and low-gluten range)
